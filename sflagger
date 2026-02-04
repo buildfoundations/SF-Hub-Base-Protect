@@ -814,5 +814,5 @@ if verifyAccess() then
     
 else
     -- KICK IF NOT WHITELISTED
-    LocalPlayer:Kick("Whitelist Required. Access Denied.")
+    LocalPlayer:Kick("Whitelist Required. Join discord.gg/PTXPzbmvyA for the script.")
 end
